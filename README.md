@@ -9,8 +9,8 @@ Bienvenido al Proyecto Header 07 - Architecture! 🏡🎨 Este proyecto está di
 Este repositorio contiene los archivos necesarios para implementar el encabezado arquitectónico. Aquí tienes una descripción rápida de los archivos y carpetas:
 
 1. 📂 img: Contiene todas las imágenes necesarias para el proyecto.
-2. 📄 index.html: El archivo HTML principal que estructura la página. [![Html](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)]()
-3. 📄 style.css: El archivo CSS que define el estilo visual del proyecto.  [![Css](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)]()
+2. 📄 index.html: El archivo HTML principal que estructura la página. [![Html](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)](Header/index.html)
+3. 📄 style.css: El archivo CSS que define el estilo visual del proyecto.  [![Css](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)](Header/style.css)
 
 ---
 
@@ -18,12 +18,14 @@ Este repositorio contiene los archivos necesarios para implementar el encabezado
   Header: Architecture 
 </h2>
 
+![Header](Header/img/Archtecture.png) 
+
 ## Estructura del Proyecto
 
 El código está organizado de la siguiente manera:
 
-🧱 HTML (index.html): Define la estructura de la página, desde el encabezado hasta la sección de servicios.
-🎨 CSS (style.css): Establece el estilo visual del proyecto, desde la tipografía hasta el diseño de las secciones.
+- 🧱 HTML (index.html): Define la estructura de la página, desde el encabezado hasta la sección de servicios.
+- 🎨 CSS (style.css): Establece el estilo visual del proyecto, desde la tipografía hasta el diseño de las secciones.
 
 ## Recursos Utilizados
 
