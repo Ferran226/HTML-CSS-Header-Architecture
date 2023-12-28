@@ -18,7 +18,7 @@ Este repositorio contiene los archivos necesarios para implementar el encabezado
   Header: Architecture 
 </h2>
 
-![Header](img/Archtecture.png) 
+![Header](img/Architecture.png) 
 
 ## Estructura del Proyecto
 
