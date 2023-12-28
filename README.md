@@ -2,7 +2,7 @@
    HTML-CSS-Header-Architecture
 </h1>
 
-Bienvenido al Proyecto Header 07 - Architecture! 🏡🎨 Este proyecto está diseñado para crear un impresionante encabezado arquitectónico con estilo y funcionalidad, optimizado para pantallas de 1200px de ancho.
+Bienvenido al Proyecto Header - Architecture! 🏡🎨 Este proyecto está diseñado para crear un impresionante encabezado arquitectónico con estilo y funcionalidad, optimizado para pantallas de 1200px de ancho.
 
 ## Contenido del Repositorio
 
